@@ -1,0 +1,59 @@
+html {
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+body {
+    background-color: #f7f7f7;
+    margin: 0px;
+    margin-top: 20px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+#job {
+    width: 760px;
+    text-align: left;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+h1, h2, h3 {
+    font-family: 'Open Sans', cursive;
+}
+
+h1 {
+    color: #525252;
+    font-size: 20pt;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    color: #bec2c2;
+    font-size: 15pt;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    padding: 5px;
+    border: 1px solid #eee;
+    background-color: #fff;
+    position: relative;
+    
+}
+
+a {
+    margin: 0;
+    padding: 0;
+}
+
+a:hover {
+    color: #00b9f2;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
